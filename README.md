@@ -50,7 +50,7 @@ This is a one page developer blog with syntax highlighting built with Storyblok 
 
 ## Development
 
-[Read a tutorial on how I built this app]()
+[Read a tutorial on how I built this app](https://dev.to/amissah17/how-to-create-a-developer-blog-with-storyblok-and-nextjs-13ad)
 
 ## Licence
 
