@@ -9,11 +9,8 @@
   background: var(--light-gray);
   border-radius: 12px;
 }
-.postContainer h2 {
-  font-size: 1.2 rem;
-  font-weight: 600;
-}
-.postContainer h2:hover {
+
+.postTitle:hover {
 opacity: 0.7;
 }
 .postImage {
@@ -23,6 +20,8 @@ opacity: 0.7;
   position: relative;
 }
 .postTitle {
+  font-size: 1.2 rem;
+  font-weight: 600;
   margin-top: 25px;
 }
 .postAuthorInfo {
