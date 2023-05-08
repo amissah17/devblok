@@ -1,4 +1,4 @@
-# Nextjs + Hygraph Blog
+# Nextjs + Storyblok Blog
 
 This is a one page developer blog with syntax highlighting built with Storyblok and Next.js.
 
