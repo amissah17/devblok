@@ -4,7 +4,7 @@ This is a one page developer blog with syntax highlighting built with Storyblok 
 
 ## Demo
 
-[Here's a live preview of the app]()
+[Here's a live preview of the app](https://devblok.netlify.app/)
 
 ## Technologies
 
