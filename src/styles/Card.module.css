@@ -1,0 +1,46 @@
+.postContainer {
+  box-sizing: border-box;
+  padding: 20px 20px;
+  width: 320px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--light-gray);
+  border-radius: 12px;
+}
+.postContainer h2 {
+  font-size: 1.2 rem;
+  font-weight: 600;
+}
+.postImage {
+  margin: auto;
+  width: 280px;
+  height: 198px;
+  position: relative;
+}
+.postTitle {
+  margin-top: 25px;
+}
+.postAuthorInfo {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.postInfo {
+  display: flex;
+  margin-top: 15px;
+}
+.imgs {
+  border-radius: 8px;
+}
+.avatar {
+  width: 57px;
+  height: 57px;
+  position: relative;
+  border-radius: 50%;
+}
+.avatarRad {
+    border: 5px solid gray;
+  border-radius: 100%;
+}
