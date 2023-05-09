@@ -10,6 +10,10 @@
   border-radius: 12px;
 }
 
+.postTitle:hover {
+opacity: 0.7;
+}
+
 .postImage {
   margin: auto;
   width: 280px;
@@ -20,6 +24,7 @@
   margin-top: 25px; 
  font-size: 1.2 rem;
   font-weight: 600;
+
 }
 
 .postTitle:hover {
