@@ -30,8 +30,9 @@ function PostCard({ title, content, slug }) {
           />
         </div>
         <div>
-          <h3>{content.Author.name}</h3>
           <div className={style.postInfo}>
+          <h3>{content.Author.name}</h3>
+          
             <p>April 26,2023</p>
           </div>
         </div>

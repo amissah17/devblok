@@ -3,23 +3,24 @@
 }
 
 .itemContainer {
-  /* padding: 0; */
-  margin-top: 60px;
-  margin-bottom: 60px;
+  max-width: 1020px;
+  margin: 60px auto;
   display: flex;
   flex-direction: row;
   gap: 30px;
   flex-wrap: wrap;
-  /* justify-content: center; */
-  /* align-items: center; */
-
 }
+
 /* Mobile */
 @media (max-width: 700px) {
- 
+  .itemContainer {
+    max-width: 320px;
+  }
 }
 
 /* Tablet and Smaller Desktop */
 @media (min-width: 701px) and (max-width: 1120px) {
-  
+  .itemContainer {
+    max-width: 674px;
+    }
 }
